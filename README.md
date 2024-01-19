@@ -1,2 +1,2 @@
 # delta-demo
-Include delta batch project
+Include delta batch project.
